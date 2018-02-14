@@ -1,0 +1,29 @@
+{
+  "name": "curso-bootstrap-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtrainingmx/curso-profesional-bootstrap-4-2018-assets.git"
+  },
+  "keywords": [],
+  "author": "Alex Arriaga <alex.arriaga@webtrainig.mx>",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/webtrainingmx/curso-profesional-bootstrap-4-2018-assets/issues"
+  },
+  "homepage": "https://github.com/webtrainingmx/curso-profesional-bootstrap-4-2018-assets#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8"
+  }
+}
