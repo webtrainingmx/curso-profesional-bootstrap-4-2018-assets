@@ -1,0 +1,23 @@
+@import "variables";
+
+.b-panel {
+  &__heading {
+    background-color: $color-blue;
+    border: 1px solid $color-dark;
+    color: white;
+    min-height: 30px;
+    padding: 10px 20px;
+  }
+
+  &__body {
+    background-color: white;
+    border: 1px solid $color-dark;
+    padding: 10px 20px;
+  }
+}
+
+.b-poll {
+  &__link {
+    color: $color-dark
+  }
+}
