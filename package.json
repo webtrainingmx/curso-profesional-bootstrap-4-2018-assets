@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "live-server .",
-    "dev" : "gulp sass:compiled && gulp watch"
+    "dev": "gulp sass:compiled && gulp watch"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/webtrainingmx/curso-profesional-bootstrap-4-2018-assets#readme",
   "devDependencies": {
+    "bootstrap": "^4.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-rename": "^1.2.2",

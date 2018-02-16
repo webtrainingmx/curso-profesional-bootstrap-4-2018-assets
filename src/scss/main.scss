@@ -1,3 +1,7 @@
+// Bootstrap Styles
+@import "partials/bootstrap-variables";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+// App's Styles
 @import "partials/variables";
 @import "partials/base";
 @import "partials/layout";
